@@ -1,0 +1,121 @@
+# Listado Completo de Etiquetas HTML
+
+Este archivo contiene un listado de las etiquetas HTML más utilizadas con una breve descripción de su función.
+
+---
+
+## Estructura Básica del Documento
+- `<!DOCTYPE>`: Declara el tipo de documento (HTML5 es `<!DOCTYPE html>`).
+- `<html>`: Define el documento HTML.
+- `<head>`: Contiene metadatos y enlaces a recursos externos.
+- `<title>`: Define el título de la página (aparece en la pestaña del navegador).
+- `<body>`: Contiene el contenido visible del documento.
+
+---
+
+## Metadatos y Enlaces
+- `<meta>`: Define información adicional como el charset o descripción.
+- `<link>`: Vincula recursos externos (CSS, iconos).
+- `<style>`: Añade CSS interno.
+- `<script>`: Añade JavaScript interno o externo.
+- `<base>`: Define la URL base para los enlaces.
+
+---
+
+## Estructura de Contenido
+- `<header>`: Cabecera del documento o sección.
+- `<footer>`: Pie de página.
+- `<main>`: Contenido principal.
+- `<section>`: Sección temática del documento.
+- `<article>`: Contenido independiente (artículos, blogs).
+- `<aside>`: Información complementaria.
+- `<nav>`: Navegación principal.
+- `<div>`: Contenedor genérico para estructurar contenido.
+
+---
+
+## Texto y Encabezados
+- `<h1>` a `<h6>`: Encabezados del 1 al 6, en orden de importancia.
+- `<p>`: Párrafo de texto.
+- `<span>`: Contenedor para aplicar estilos o agrupar texto.
+- `<br>`: Salto de línea.
+- `<hr>`: Línea horizontal para separar contenido.
+
+---
+
+## Listas
+- `<ul>`: Lista desordenada (viñetas).
+- `<ol>`: Lista ordenada (números).
+- `<li>`: Elemento de lista.
+- `<dl>`: Lista de definiciones.
+- `<dt>`: Término de la definición.
+- `<dd>`: Descripción del término.
+
+---
+
+## Enlaces e Imágenes
+- `<a>`: Define un hipervínculo.
+- `<img>`: Inserta una imagen.
+- `<figure>`: Agrupa contenido visual como imágenes.
+- `<figcaption>`: Proporciona una descripción para el contenido dentro de `<figure>`.
+
+---
+
+## Tablas
+- `<table>`: Define una tabla.
+- `<tr>`: Fila de la tabla.
+- `<th>`: Celda de encabezado.
+- `<td>`: Celda de datos.
+- `<caption>`: Título para la tabla.
+- `<thead>`: Agrupa el encabezado de la tabla.
+- `<tbody>`: Agrupa el cuerpo de la tabla.
+- `<tfoot>`: Agrupa el pie de la tabla.
+
+---
+
+## Formularios
+- `<form>`: Define un formulario interactivo.
+- `<input>`: Campo de entrada para datos del usuario.
+- `<textarea>`: Área de texto para entrada extensa.
+- `<button>`: Botón clicable.
+- `<label>`: Etiqueta para controles del formulario.
+- `<fieldset>`: Agrupa controles relacionados en un formulario.
+- `<legend>`: Título para un `<fieldset>`.
+- `<select>`: Menú desplegable.
+- `<option>`: Opción dentro de un menú desplegable.
+- `<optgroup>`: Agrupa opciones dentro de un menú desplegable.
+- `<datalist>`: Lista de opciones predefinidas para un campo `<input>`.
+- `<output>`: Muestra el resultado de un cálculo.
+
+---
+
+## Multimedia
+- `<audio>`: Inserta contenido de audio.
+- `<video>`: Inserta contenido de video.
+- `<source>`: Fuentes alternativas para `<audio>` o `<video>`.
+- `<track>`: Subtítulos o pistas de texto para multimedia.
+- `<embed>`: Inserta contenido externo, como aplicaciones o videos.
+- `<iframe>`: Inserta un marco en línea para mostrar otro documento.
+- `<object>`: Inserta objetos multimedia como gráficos o aplicaciones.
+
+---
+
+## Otros Elementos Semánticos
+- `<mark>`: Destaca texto.
+- `<strong>`: Texto importante (generalmente en negrita).
+- `<em>`: Texto enfatizado (generalmente en cursiva).
+- `<b>`: Negrita (sin semántica de importancia).
+- `<i>`: Cursiva (sin semántica de énfasis).
+- `<u>`: Subraya texto.
+- `<code>`: Representa un fragmento de código.
+- `<pre>`: Texto preformateado.
+- `<blockquote>`: Cita larga.
+- `<q>`: Cita corta.
+- `<abbr>`: Define una abreviatura.
+- `<time>`: Representa una fecha u hora.
+
+---
+
+### Notas
+- Puedes copiar este listado y usarlo como referencia rápida en tus proyectos.
+- Para aprender más sobre cada etiqueta, consulta la [documentación oficial de MDN Web Docs](https://developer.mozilla.org/es/).
